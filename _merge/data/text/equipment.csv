@@ -1,0 +1,3 @@
+Name,Description,Size,Script: On Execute,Gadget,Slots,NEED TOTAL?,Category,Colour,Upgrade,Weaken,Alternate Status Trigger,SFX,Uses?,Cast Backwards?,Single use?,Parallel Universe,Special?,Error Immune,Show Gold,Appears For Parts,Hide Reuseable,Witch Spell,Script: Before Combat,Script: After Combat,Script: Before Start Turn,Script: On Start Turn,Script: On any equipment use,Script: On any countdown reduce,Script: End Turn,Script: Before execute,Script: On Snap,Script: On Fury
+Plasma Blaster,Do [sword]<d6> damage,1,attack(d);,Plasma Gun,MAX5,,WEAPON,,increaserange,complicate,,,0,NO,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,
+Dagger,Do [sword]<d6> damage|[gray](Reuseable),1,attack(d);,Steal,MAX3,,WEAPON,,change_power,complicate,,,-1,NO,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,

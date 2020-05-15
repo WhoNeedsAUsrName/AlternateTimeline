@@ -1,0 +1,364 @@
+	},
+	"music_victory": {
+		"changeparams": [{
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"playsounds": [{
+			"channel": 1,
+			"file": "music/combat/",
+			"loop": true,
+			"tag": "victorytheme",
+			"volume": {
+				"fade": 3,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			}
+		}],
+		"stopsounds": [{
+			"file": "sfx/battle/lowhealth"
+		}, {
+			"file": "music/combat/combat8jester"
+		}]
+	},
+	"music_combat1": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat1",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat2": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat2",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat3": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat3",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat4": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat4",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat5": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat5",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat6": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/Panic Button",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat7": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat7",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat8": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat89",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},
+	"music_combat9": {
+		"playsounds": [{
+			"channel": 1,
+			"delay": 0,
+			"effect": "",
+			"file": "music/combat/combat9",
+			"filter": "",
+			"loop": true,
+			"panning": {
+				"fade": 0,
+				"max": 0,
+				"min": 0,
+				"random": false,
+				"value": 0
+			},
+			"pitch": {
+				"fade": 0,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 1
+			},
+			"position": 0,
+			"syncbpm": 0,
+			"tag": "combatmusic",
+			"volume": {
+				"fade": 2,
+				"max": 1,
+				"min": 0,
+				"random": false,
+				"value": 0
+			}
+		}],
+		"stopsounds": [{
+			"file": "music/title/title"
+		}]
+	},

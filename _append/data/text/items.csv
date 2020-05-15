@@ -1,0 +1,2 @@
+Name,Description,Requirements,Script
+Fury!,Next attack gains 3 extra uses. (currently subbed with regular fury),,inflictself(FURY);
